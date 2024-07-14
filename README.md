@@ -1,4 +1,14 @@
-# vue-crash
+## Vue Crash Course - Task Tracker Tutorial
+# Brian Thompson
+# Web 215 - Wake Tech Community College
+
+## Project 
+This project is a Vue Task Tracker Tutorial created by following the steps in the 
+YouTube Crash Course Tutorial https://www.youtube.com/watch?v=qZXt1Aom3Cs
+by Traversy Media
+
+The Task Tracker allows users to view, add, and delete tasks. It also allows user's 
+to toggle the reminder setting for each task.
 
 ## Project setup
 ```
