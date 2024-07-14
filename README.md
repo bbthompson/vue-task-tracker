@@ -3,7 +3,7 @@
 # Web 215 - Wake Tech Community College
 
 ## Project 
-This project is a Vue Task Tracker Tutorial created by following the steps in the 
+This project is a Vue Task Tracker Tutorial Project created by following the steps in the 
 YouTube Crash Course Tutorial https://www.youtube.com/watch?v=qZXt1Aom3Cs
 by Traversy Media
 
